@@ -1,4 +1,4 @@
-# Compression and acceleration of nerual network
+# Compression and acceleration of nerual network on mobile device
 
 In modern society, the importance of mobile electronic devices in people's lives is becoming more and more prominent. It is an excellent choice to install neural networks on mobile terminals to make mobile electronic devices more intelligent, convenient and deal with more problems.
 
